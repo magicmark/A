@@ -1,0 +1,9 @@
+{
+  "name": "A",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "B": "git+ssh://git@github.com/magicmark/B.git#v1.0.0"
+  }
+}
